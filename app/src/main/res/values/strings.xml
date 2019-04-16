@@ -31,4 +31,18 @@
     <string name="connect_with_facebook">connect with facebook</string>
     <string name="or">OR</string>
     <string name="login">login</string>
+    <string name="_75">75</string>
+    <string name="_100">100</string>
+    <string name="_330">330</string>
+    <string name="blood_give">BLOOD GIVE</string>
+    <string name="blood_received">BLOOD RECEIVED</string>
+    <string name="thanks">THANKS</string>
+    <string name="search_donor">Search Donor</string>
+    <string name="blood_needed">Blood Needed</string>
+    <string name="search_donor_near_you">Search donor near you</string>
+    <string name="_4_user_need_blood">4 User need blood</string>
+    <string name="message">Message</string>
+    <string name="_5_new_messages">5 New Messages</string>
+    <string name="_5_gives_2_received">5 Gives, 2 Received</string>
+    <string name="donor_history">Donor History</string>
 </resources>

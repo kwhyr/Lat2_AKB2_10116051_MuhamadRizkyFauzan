@@ -21,12 +21,16 @@ public class LoginActivity extends AppCompatActivity {
         -Membuat Layout User
 
         16/04/2019 19:00 PM :
-        -Membuat CircleImageView pada foto user di Layout user
+        -Menambah CircleImageView pada foto user di Layout user
 
         16/04/2019 19:45 PM :
         -fix layout
-        -Membuat ScrollView untuk login dan register
+        -Menambah ScrollView pada login dan register
 
+        16/04/2019 21:00 PM :
+        -fix semua layout
+        -menambah text ke String
+        -Menambah ScrollView pada user
      */
 
     @Override

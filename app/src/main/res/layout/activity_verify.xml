@@ -16,7 +16,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_centerHorizontal="true"
-            android:layout_marginTop="180dp"
+            android:layout_marginTop="160dp"
             android:text="@string/verify_your_account"
             android:textColor="@color/background"
             android:textSize="35sp" />
@@ -37,7 +37,7 @@
             android:layout_height="wrap_content"
             android:layout_below="@id/txtVerifyDesc"
             android:layout_marginLeft="30dp"
-            android:layout_marginTop="60dp"
+            android:layout_marginTop="40dp"
             android:layout_marginRight="30dp"
             android:backgroundTint="@color/background"
             android:gravity="center"
