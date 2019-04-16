@@ -23,7 +23,7 @@ public class RegisterActivity extends AppCompatActivity {
     }
 
     public void navireg() {
-        Intent intent = new Intent(this, RegisterActivity.class);
+        Intent intent = new Intent(this, AlmostthereActivity.class);
         startActivity(intent);
     }
 }

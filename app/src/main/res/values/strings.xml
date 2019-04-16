@@ -26,4 +26,6 @@
     <string name="enter_verification_code_here">Enter Verification Code Here</string>
     <string name="send">send</string>
     <string name="doesn_t_get_the_code_resend">doesn\'t get the code? <b>Resend</b></string>
+    <string name="muhamad_rizky_fauzan">Muhamad Rizky Fauzan</string>
+    <string name="blood_type_b">Blood Type : B</string>
 </resources>

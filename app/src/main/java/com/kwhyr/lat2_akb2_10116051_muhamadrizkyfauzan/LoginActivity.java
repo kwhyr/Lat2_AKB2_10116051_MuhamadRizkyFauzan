@@ -8,6 +8,23 @@ import android.widget.TextView;
 
 public class LoginActivity extends AppCompatActivity {
 
+    /*
+    NIM : 10116051
+    Nama : Muhamad Rizky Fauzan
+    Kelas : IF2/AKB2
+    Change Log
+        16/04/2019 13:00 PM :
+        -Membuat Layout Login, Register, AlmostThere, Verify
+        -Membuat Intent antar Login, Register, AlmostThere, Verify
+
+        16/04/2019 14:45 PM :
+        -Membuat Layout User
+
+        16/04/2019 19:00 PM :
+        -Membuat CircleImageView pada foto user di Layout user
+
+     */
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
