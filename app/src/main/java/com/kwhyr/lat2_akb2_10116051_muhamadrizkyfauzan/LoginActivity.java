@@ -23,6 +23,10 @@ public class LoginActivity extends AppCompatActivity {
         16/04/2019 19:00 PM :
         -Membuat CircleImageView pada foto user di Layout user
 
+        16/04/2019 19:45 PM :
+        -fix layout
+        -Membuat ScrollView untuk login dan register
+
      */
 
     @Override

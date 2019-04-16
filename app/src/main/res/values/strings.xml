@@ -28,4 +28,7 @@
     <string name="doesn_t_get_the_code_resend">doesn\'t get the code? <b>Resend</b></string>
     <string name="muhamad_rizky_fauzan">Muhamad Rizky Fauzan</string>
     <string name="blood_type_b">Blood Type : B</string>
+    <string name="connect_with_facebook">connect with facebook</string>
+    <string name="or">OR</string>
+    <string name="login">login</string>
 </resources>
