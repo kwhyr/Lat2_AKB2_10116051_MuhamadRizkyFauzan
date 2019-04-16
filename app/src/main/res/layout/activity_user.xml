@@ -11,8 +11,9 @@
         android:layout_height="match_parent">
 
         <RelativeLayout
+            android:id="@+id/relUserHeader"
             android:layout_width="match_parent"
-            android:layout_height="130dp"
+            android:layout_height="150dp"
             android:background="@drawable/ic_header_profile">
 
             <ImageView
@@ -35,12 +36,23 @@
 
         </RelativeLayout>
 
-        <ImageView
+        <View
+            android:id="@+id/separator_user"
+            android:layout_width="match_parent"
+            android:layout_height="4dp"
+            android:layout_below="@id/relUserHeader"
+            android:background="@color/separator" />
+
+        <de.hdodenhof.circleimageview.CircleImageView
             android:id="@+id/img_profile"
             android:layout_width="75dp"
             android:layout_height="75dp"
             android:layout_centerHorizontal="true"
-            android:layout_marginTop="90dp"
+            android:layout_marginTop="110dp"
+            app:civ_border_color="@color/background"
+            app:civ_fill_color="@color/background_invite_friend"
+            app:civ_border_width="3dp"
+            app:civ_border_overlay="true"
             android:layout_alignParentTop="true"
             android:src="@drawable/userpic"/>
 
@@ -51,7 +63,7 @@
             android:layout_below="@id/img_profile"
             android:layout_centerHorizontal="true"
             android:layout_marginTop="10dp"
-            android:text="Muhamad Rizky Fauzan"
+            android:text="@string/muhamad_rizky_fauzan"
             android:textColor="@color/light_blue"
             android:textSize="20sp" />
 
@@ -62,7 +74,7 @@
             android:layout_below="@id/txt_nama_user"
             android:layout_centerHorizontal="true"
             android:layout_marginTop="5dp"
-            android:text="Blood Type : AB" />
+            android:text="@string/blood_type_b" />
 
         <View
             android:id="@+id/view1"
@@ -87,7 +99,7 @@
             android:layout_below="@id/txt_blood_type"
             android:layout_marginLeft="55dp"
             android:layout_marginTop="20dp"
-            android:text="85"
+            android:text="75"
             android:textColor="@color/light_blue"
             android:textSize="25sp" />
 
@@ -110,7 +122,7 @@
             android:layout_alignParentRight="true"
             android:layout_marginTop="20dp"
             android:layout_marginRight="55dp"
-            android:text="440"
+            android:text="330"
             android:textColor="@color/light_blue"
             android:textSize="25sp" />
 
